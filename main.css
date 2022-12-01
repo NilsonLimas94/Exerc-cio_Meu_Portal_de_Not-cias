@@ -113,3 +113,11 @@ section h2 {
 #entertainment .articles article a {
     background-color: rgb(71, 0, 138);
 }
+
+#technology {
+    background-color: rgba(210, 105, 30, 0.295);
+}
+
+#technology .articles article a {
+    background-color: rgb(161, 69, 3);
+}
