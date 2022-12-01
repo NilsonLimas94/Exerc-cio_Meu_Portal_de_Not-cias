@@ -105,3 +105,11 @@ section h2 {
 #economy .articles article a {
     background-color: rgb(156, 0, 0);
 }
+
+#entertainment {
+    background-color: rgba(137, 43, 226, 0.267);
+}
+
+#entertainment .articles article a {
+    background-color: rgb(71, 0, 138);
+}
